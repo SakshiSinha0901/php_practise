@@ -9,6 +9,8 @@
     <form action="functions.php" method="get">
         <input type="text" name="num01" placeholder="Number 1">
         <select name="oper">
+            <!-- This is going to be the comment part and this is just for the testing purposes
+-->
 
         <label>Choose Operation!</label>
         <option value="add">Add</option>
