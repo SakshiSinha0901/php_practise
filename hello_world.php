@@ -9,7 +9,7 @@
     <form action="functions.php" method="get">
         <input type="text" name="num01" placeholder="Number 1">
         <select name="oper">
-            <!-- This is going to be the comment part and this is just for the testing purposes
+            <!-- This is going to be the comment part and this is just for the testing purposes. I am adding a new line just to showcase the git push
 -->
 
         <label>Choose Operation!</label>
